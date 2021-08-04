@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamanSepahvand
 - 👀 I’m interested in (Backend)Programming 
-- 🌱 I’m currently learning kotlin/C#/AngularJs/Asp.nerCore
+- 🌱 I’m currently Android Developing but i learning kotlin/C#/AngularJs/Asp.nerCore
 - 💞️ I’m looking to collaborate on :)
 - 📫 How to reach me <a href="http://SamanSepahvand.ir"> openPersonalSite</a>
 
